@@ -1,0 +1,14 @@
+header{
+    position: relative;
+    top: 0px;
+    border : 2px solid black;
+    padding: 5px;
+    width: 100vw;
+    display: flex;
+}
+
+body{
+    background-image: url('dame7.png');
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
